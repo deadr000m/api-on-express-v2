@@ -1,22 +1,27 @@
 [
   {
-    "title": "things fall apart",
-    "author": "Roman Tishchenko",
+    "title": "american tragedy",
+    "author": "Theodore Dreiser",
     "year": 1958
   },
   {
     "title": "For whom the bell rings",
-    "author": "Ivan Potockie",
+    "author": "Ernest Hemingway",
     "year": 1944
   },
   {
     "title": "1984",
-    "author": "Pavel Kravcov",
+    "author": "George Orwell",
     "year": 1947
   },
   {
     "title": "Anna Korenina",
     "author": "Lev Tostoi",
     "year": 1865
+  },
+  {
+    "title": "The Grapes of Wrath",
+    "author": "John Steinbeck",
+    "year": 1939
   }
 ]
